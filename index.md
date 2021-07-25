@@ -8,8 +8,11 @@ Yuzhang is currently a Ph.D. student in the Department of Computer Science at Il
 
 ## Publications
 ### Lipschitz Continuity Guided Knowledge Distillation
+
 Yuzhang Shang, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan
+
 ICCV 2019
+
 [paper] [code](https://github.com/42Shawn/LONDON) 
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
