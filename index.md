@@ -1,6 +1,5 @@
 # Welcome to Yuzhang's  Homepage
 
-Ph.D. student at Illinois Institute of Technology
 email: yshang4 [AT] hawk.iit.edu
 
 ## BIO
