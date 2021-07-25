@@ -1,7 +1,16 @@
 # Welcome to Yuzhang's  Homepage
 
-### Ph.D. student at Illinois Institute of Technology
-### email: yshang4 [AT] hawk.iit.edu
+Ph.D. student at Illinois Institute of Technology
+email: yshang4 [AT] hawk.iit.edu
+
+## BIO
+Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Dr. Yan Yan. Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Dr. Liqiang Nie and Dr. Dan Xu, respectively. He got his bachelor degrees in Mathematics and Economics (double major) at Wuhan University.
+
+## Publications
+### Lipschitz Continuity Guided Knowledge Distillation
+Yuzhang Shang, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan
+ICCV 2019
+[paper] [code](https://github.com/42Shawn/LONDON) 
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
