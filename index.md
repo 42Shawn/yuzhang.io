@@ -1,9 +1,10 @@
 # Welcome to Yuzhang's  Homepage
 
-email: yshang4 [AT] hawk.iit.edu
+email: yshang4 [AT] hawk.iit.edu/ yzshawn@outlook.com
 
 ## BIO
-Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Dr. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Dr. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Dr. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (double major) at Wuhan University. Besides research, I am a landscape contract photographer for Shutterstock Image, and here is my [portfolio](https://500px.com.cn/shang).
+Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Dr. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Dr. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Dr. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (double major) at Wuhan University.    
+Besides research, I am a landscape contract photographer for Shutterstock Image, and here is my [portfolio](https://500px.com.cn/shang).
 
 ## Publications
 ### Lipschitz Continuity Guided Knowledge Distillation
