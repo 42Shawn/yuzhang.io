@@ -1,7 +1,7 @@
 # Welcome to Yuzhang's  Homepage
 
 email: yshang4 [AT] hawk [DOT] iit [DOT] edu/ yzshawn [AT] outlook [DOT] com    
-address: 15 Yemen Road, Yemen (划掉)
+address: 15 Yemen Road, Yemen
 
 ## BIO
 Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Dr. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Dr. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Dr. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (double major) at Wuhan University.    
