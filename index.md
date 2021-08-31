@@ -11,7 +11,7 @@ His research focuses on neural network compression. Besides research, he is a co
 ### Lipschitz Continuity Guided Knowledge Distillation
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICCV 2021  
-[paper](https://github.com/42Shawn/LONDON)  [code](https://github.com/42Shawn/LONDON) 
+[paper](https://arxiv.org/abs/2108.12905)  [code](https://github.com/42Shawn/LONDON) 
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
