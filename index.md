@@ -5,7 +5,7 @@ address: 15 Yemen Road, Yemen
 
 ## BIO
 Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Dr. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Dr. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Dr. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (double major) at Wuhan University.    
-His research focuses on neural network compression. Besides research, he is a contract photographer for Shutterstock Image and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
+His research focuses on neural network compression. Besides research, he is a contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
 
 ## Publications
 ### Lipschitz Continuity Guided Knowledge Distillation
