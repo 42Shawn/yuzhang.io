@@ -4,7 +4,7 @@ email: yshang4 [AT] hawk [DOT] iit [DOT] edu
 address: 15 Yemen Road, Yemen
 
 ## BIO
-Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (double major) and did research with Prof. [Xiliang lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.
+Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (double major) and did research with Prof. [Xiliang lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
 Besides research, he is a contract photographer for the Shutterstock Images and the Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
 
 ## Motto
