@@ -4,7 +4,7 @@ email: yshang4 [AT] hawk [DOT] iit [DOT] edu
 address: 15 Yemen Road, Yemen
 
 ## BIO
-Yuzhang is currently a Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degree) and did research with Prof. [Xiliang lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
+Yuzhang is currently a Ph.D. freshman in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). Before IIT, he was a research assistant at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degrees) and did research with Prof. [Xiliang lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
 
 Besides research, he is a contract photographer for the Shutterstock Images and the Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
 
@@ -15,7 +15,7 @@ Wir müssen wissen, wir werden wissen!
 ### Lipschitz Continuity Guided Knowledge Distillation
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICCV 2021  
-[paper](https://arxiv.org/abs/2108.12905)  [code](https://github.com/42Shawn/LONDON/tree/master) 
+[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master) 
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
