@@ -15,7 +15,13 @@ Wir müssen wissen, wir werden wissen!
 ### Lipschitz Continuity Guided Knowledge Distillation
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICCV 2021  
-[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master) 
+[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master)    
+
+### Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning
+**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
+ICASSP 2022  
+[paper](https://arxiv.org/pdf/2201.12712.pdf) 
+
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
