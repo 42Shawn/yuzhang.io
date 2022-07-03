@@ -22,6 +22,16 @@ ICCV 2021
 ICASSP 2022  
 [paper](https://arxiv.org/pdf/2201.12712.pdf) 
 
+### Lipschitz Continuity Retained Binary Neural Network
+**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
+ECCV 2022  
+[paper] [code]
+
+### Network Binarization via Contrastive Learning
+**Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
+ECCV 2022  
+[paper] [code]
+
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
