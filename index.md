@@ -10,8 +10,8 @@ Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Scienc
 
 Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
 
-<p style="font-family: times, serif; font-size:11pt; font-style:italic">
-    Why did we use these specific parameters during the calculation of the fingerprints?
+<p style="font-family: times, serif; font-size:16pt; font-style:italic">
+    neural network compression
 </p>
 
 ### Motto
