@@ -10,10 +10,10 @@ Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Scienc
 
 Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
 
-Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
-
 ### Motto
-> Wir müssen wissen, wir werden wissen!
+> Wir müssen wissen, wir werden wissen!    
+
+Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
 
 ## Publications 
 
