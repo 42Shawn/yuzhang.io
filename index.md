@@ -8,10 +8,10 @@ Yuzhang is currently a Ph.D. freshman in the Department of Computer Science at I
 
 Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
 
-## Motto
-Wir müssen wissen, wir werden wissen!
+### Motto
+> Wir müssen wissen, wir werden wissen!
 
-## Publications
+## Publications (Yuzhang as frist author)
 
 ### Network Binarization via Contrastive Learning
 **Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
