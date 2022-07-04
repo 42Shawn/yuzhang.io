@@ -13,7 +13,8 @@ Before IIT, he worked as research assistants at Shandong University and HKUST un
 ### Motto
 > Wir müssen wissen, wir werden wissen!    
 
-Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
+### Hobby
+_Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang)._
 
 ## Publications 
 
