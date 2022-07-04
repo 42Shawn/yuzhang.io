@@ -4,7 +4,8 @@ email: yshang4 [AT] hawk [DOT] iit [DOT] edu
 address: 15 Yemen Road, Yemen
 
 <!-- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-![Thumbnail of Minimal](yuzhang.png =100x100)
+<!-- ![Thumbnail of Minimal](yuzhang.png =100x100) -->
+<img src="yuzhang.png" width="200">
 <!-- ![Branching](https://github.com/42Shawn/yuzhang.io/yuzhang.png) -->
 
 ## BIO
