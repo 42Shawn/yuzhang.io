@@ -6,7 +6,7 @@ email: yshang4 [AT] hawk [DOT] iit [DOT] edu
 address: 15 Yemen Road, Yemen
 
 ## BIO
-Yuzhang is currently a Ph.D. freshman in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
+Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the neural network compression and multitask learning.    
 
 Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang).
 
@@ -15,22 +15,22 @@ Besides research, Yuzhang is contract photographer for Shutterstock Images and G
 
 ## Publications 
 
-### Network Binarization via Contrastive Learning
+* **Network Binarization via Contrastive Learning**
 **Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
 ECCV 2022  
 [paper] [code] (TBR)
 
-### Lipschitz Continuity Retained Binary Neural Network
+* Lipschitz Continuity Retained Binary Neural Network
 **Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ECCV 2022  
 [paper] [code] (TBR)
 
-### Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning
+* Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICASSP 2022  
 [paper](https://arxiv.org/pdf/2201.12712.pdf) 
 
-### Lipschitz Continuity Guided Knowledge Distillation
+* Lipschitz Continuity Guided Knowledge Distillation
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICCV 2021  
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master)    
