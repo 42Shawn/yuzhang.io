@@ -13,7 +13,7 @@ Besides research, Yuzhang is contract photographer for Shutterstock Images and G
 ### Motto
 > Wir müssen wissen, wir werden wissen!
 
-## Publications (Yuzhang as frist author)
+## Publications 
 
 ### Network Binarization via Contrastive Learning
 **Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
