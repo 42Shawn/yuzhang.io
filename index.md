@@ -15,22 +15,22 @@ Besides research, Yuzhang is contract photographer for Shutterstock Images and G
 
 ## Publications 
 
-* **Network Binarization via Contrastive Learning**
+* **Network Binarization via Contrastive Learning**    
 **Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
 ECCV 2022  
 [paper] [code] (TBR)
 
-* Lipschitz Continuity Retained Binary Neural Network
+* **Lipschitz Continuity Retained Binary Neural Network**    
 **Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ECCV 2022  
 [paper] [code] (TBR)
 
-* Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning
+* **Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning**    
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICASSP 2022  
 [paper](https://arxiv.org/pdf/2201.12712.pdf) 
 
-* Lipschitz Continuity Guided Knowledge Distillation
+* **Lipschitz Continuity Guided Knowledge Distillation**    
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 ICCV 2021  
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master)    
