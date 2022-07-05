@@ -5,7 +5,7 @@
 email: yshang4 [AT] hawk [DOT] iit [DOT] edu     
 WeChat: 'surname' + 'given_name' in Pinyin    
 address: 15 Yemen Road, Yemen    
-
+[Google Scholar](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)
 ## BIO
 Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
 
