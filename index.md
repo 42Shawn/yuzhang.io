@@ -3,7 +3,7 @@
 <img src="yuzhang.png" width="200">
     
 email: yshang4 [AT] hawk [DOT] iit [DOT] edu     
-WeChat: surname + given name in Pinyin    
+WeChat: 'surname' + 'given_name' in Pinyin    
 address: 15 Yemen Road, Yemen    
 
 ## BIO
