@@ -7,9 +7,9 @@ WeChat: 'surname' + 'given_name' in Pinyin
 address: 15 Yemen Road, Yemen    
 
 ## BIO
-Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Science at Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
+Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
 
-Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv](http://xllv.whu.edu.cn/) at Wuhan University. His research focuses on the **_neural network compression_** and **_multitask learning_**.    
+Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor's degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv]([http://xllv.whu.edu.cn/](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. His research focuses on the **_neural network compression_** and **_multitask learning_**.    
 
 
 
@@ -17,7 +17,7 @@ Before IIT, he worked as research assistants at Shandong University and HKUST un
 > Wir müssen wissen, wir werden wissen!    
 
 ### Hobby
-_Besides research, Yuzhang is contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang)._
+_Besides research, Yuzhang is a contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang)._
 
 ## Publications 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)
