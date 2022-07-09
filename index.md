@@ -7,7 +7,7 @@ WeChat: 'surname' + 'given_name' in Pinyin
 address: 15 Yemen Road, Yemen    
 
 ## BIO
-Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
+Yuzhang Shang (尚玉章) is currently a Ph.D. freshman in the Department of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
 
 Before IIT, he worked as research assistants at Shandong University and HKUST under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor's degrees in Mathematics and Economics (dual degrees), and did research with Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. His research focuses on the **_neural network compression_** and **_multitask learning_**.    
 
@@ -27,12 +27,12 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 * **Network Binarization via Contrastive Learning**    
 **Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
 2022 European Conference on Computer Vision (_ECCV_ 2022)  
-[paper] [code] (TBR)
+[paper] [code](https://github.com/42Shawn/CMIM)
 
 * **Lipschitz Continuity Retained Binary Neural Network**    
 **Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 2022 European Conference on Computer Vision (_ECCV_ 2022)  
-[paper] [code] (TBR)
+[paper] [code](https://github.com/42Shawn/LCR_BNN)
 
 * **Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning**    
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
