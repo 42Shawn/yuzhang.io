@@ -27,7 +27,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 * **Network Binarization via Contrastive Learning**    
 **Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  
 2022 European Conference on Computer Vision (_ECCV_ 2022)  
-[paper] [code](https://github.com/42Shawn/CMIM)
+[paper](https://arxiv.org/abs/2207.02970) [code](https://github.com/42Shawn/CMIM)
 
 * **Lipschitz Continuity Retained Binary Neural Network**    
 **Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
