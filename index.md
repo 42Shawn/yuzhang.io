@@ -32,7 +32,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 * **Lipschitz Continuity Retained Binary Neural Network**    
 **Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
 2022 European Conference on Computer Vision (_ECCV_ 2022)  
-[paper] [code](https://github.com/42Shawn/LCR_BNN)
+[paper](https://arxiv.org/abs/2207.06540) [code](https://github.com/42Shawn/LCR_BNN)
 
 * **Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning**    
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
