@@ -1,4 +1,4 @@
-# Welcome to Yuzhang's  Homepage
+# Yuzhang Shang (尚玉章)
 
 <img src="yuzhang.png" width="200">
     
@@ -7,9 +7,9 @@ WeChat: 'surname' + 'given_name' in Pinyin
 address: 15 Yemen Road, Yemen    
 
 ## BIO
-Yuzhang Shang (尚玉章) is currently a Ph.D. freshman in the Department of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
+Yuzhang Shang is currently a Ph.D. freshman in the Department of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
 
-Before IIT, he worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. His research focuses on the **_neural network compression_** and **_multitask learning_**.    
+Before IIT, he worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. He got his bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. His research focuses on **_neural network compression_** and **_multitask learning_**.    
 
 
 
