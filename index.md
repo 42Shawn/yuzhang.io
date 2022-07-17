@@ -11,29 +11,31 @@ I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of
 
 Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. My research focuses on **_neural network compression_** and **_multitask learning_**.    
 
-_**Hobby**: Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._    
+_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._    
+
 > Motto: Wir müssen wissen, wir werden wissen!    
 
-&nbsp;   
-&nbsp;
-    
+
 ## Publications 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ).
 
 ### First-authored Papers
 
 * **[ECCV'22]** <u>Network Binarization via Contrastive Learning</u>    
-**Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan. [[paper]](https://arxiv.org/abs/2207.02970) [[code]](https://github.com/42Shawn/CMIM)
+**Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan.    
+[[paper]](https://arxiv.org/abs/2207.02970) [[code]](https://github.com/42Shawn/CMIM)
 
 * **[ECCV'22]** <u>Lipschitz Continuity Retained Binary Neural Network</u>    
-**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan. [[paper]](https://arxiv.org/abs/2207.06540) [[code]](https://github.com/42Shawn/LCR_BNN)
-
-* **[ICASSP'22]** <u>Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning</u>    
-**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.  [[paper]](https://arxiv.org/pdf/2201.12712.pdf) 
+**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.     
+[[paper]](https://arxiv.org/abs/2207.06540) [[code]](https://github.com/42Shawn/LCR_BNN)
 
 * **[ICCV'22]** <u>Lipschitz Continuity Guided Knowledge Distillation</u>    
-**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [[code]](https://github.com/42Shawn/LONDON/tree/master)    
+**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.    
+[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [[code]](https://github.com/42Shawn/LONDON/tree/master)    
 
+* **[ICASSP'22]** <u>Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning</u>    
+**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.   
+[[paper]](https://arxiv.org/pdf/2201.12712.pdf) 
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
