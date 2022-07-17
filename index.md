@@ -24,23 +24,17 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 ### First-authored Papers
 
-* **ECCV'22**<u>Network Binarization via Contrastive Learning</u>    
-**Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan  [[paper]](https://arxiv.org/abs/2207.02970) [[code]](https://github.com/42Shawn/CMIM)
+* **ECCV'22** <u>Network Binarization via Contrastive Learning</u>    
+**Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, Yan Yan. [[paper]](https://arxiv.org/abs/2207.02970) [[code]](https://github.com/42Shawn/CMIM)
 
-* **Lipschitz Continuity Retained Binary Neural Network**    
-**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
-2022 European Conference on Computer Vision (_ECCV_ 2022)  
-[[paper]](https://arxiv.org/abs/2207.06540) [[code]](https://github.com/42Shawn/LCR_BNN)
+* **ECCV'22** <u>Lipschitz Continuity Retained Binary Neural Network</u>    
+**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan. [[paper]](https://arxiv.org/abs/2207.06540) [[code]](https://github.com/42Shawn/LCR_BNN)
 
-* **Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning**    
-**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (_ICASSP_ 2022)  
-[[paper]](https://arxiv.org/pdf/2201.12712.pdf) 
+* **ICASSP'22** <u>Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning</u>    
+**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.  [[paper]](https://arxiv.org/pdf/2201.12712.pdf) 
 
-* **Lipschitz Continuity Guided Knowledge Distillation**    
-**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan  
-2021 IEEE International Conference on Computer Vision (_ICCV_ 2021)    
-[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master)    
+* **ICCV'22** <u>Lipschitz Continuity Guided Knowledge Distillation</u>    
+**Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [code](https://github.com/42Shawn/LONDON/tree/master)    
 
 
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
