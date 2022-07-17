@@ -13,6 +13,7 @@ Before IIT, I worked as research assistants at Shandong University and Hong Kong
 
 _**Hobby**: Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._    
 > Motto: Wir müssen wissen, wir werden wissen!    
+
 &nbsp;   
 &nbsp;
     
