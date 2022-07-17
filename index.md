@@ -2,9 +2,9 @@
 
 <img src="yuzhang.png" width="200">
     
-email: yshang4 [AT] hawk [DOT] iit [DOT] edu     
+Email: yshang4 [AT] hawk [DOT] iit [DOT] edu     
 WeChat: 'surname' + 'given_name' in Pinyin    
-address: 15 Yemen Road, Yemen    
+Address: 15 Yemen Road, Yemen    
 
 ## BIO
 I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
