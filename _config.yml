@@ -5,4 +5,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Yuzhang SHANG's Homepage]
+<img src="yuzhang.png" width="200">
 description: [Greeting!]
