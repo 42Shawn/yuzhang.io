@@ -1,10 +1,5 @@
 # Yuzhang Shang (尚玉章)
 
-<img src="yuzhang.png" width="200">
-    
-Email: yshang4 [AT] hawk [DOT] iit [DOT] edu     
-WeChat: 'surname' + 'given_name' in Pinyin    
-Address: 15 Yemen Road, Yemen    
 &nbsp;
 ## BIO
 I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). My research focuses on **_neural network compression_** and **_multitask learning_**. [[Google Scholar]](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)    
