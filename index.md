@@ -20,7 +20,7 @@ _**Hobby**: Besides research, I was a contract photographer for Shutterstock Ima
 &nbsp;
     
 ## Publications 
-Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)
+Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ).
 
 ### First-authored Papers
 
