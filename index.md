@@ -14,8 +14,8 @@ Before IIT, I worked as research assistants at Shandong University and Hong Kong
 
 > Motto: Wir müssen wissen, wir werden wissen!    
 
-### Hobby
-_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._
+### 
+_**Hobby**: Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._
 &nbsp;   
 &nbsp;
     
