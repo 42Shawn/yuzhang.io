@@ -9,14 +9,14 @@ address: 15 Yemen Road, Yemen
 ## BIO
 I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
 
-Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. His research focuses on **_neural network compression_** and **_multitask learning_**.    
+Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. My research focuses on **_neural network compression_** and **_multitask learning_**.    
 
 
 > Motto: Wir müssen wissen, wir werden wissen!    
 
 ### Hobby
-_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is his [portfolio](https://500px.com.cn/shang)._
-    
+_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._
+&nbsp;   
     
 ## Publications 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)
