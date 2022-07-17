@@ -8,14 +8,16 @@ Address: 15 Yemen Road, Yemen
 
 &nbsp;
 ## BIO
-I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/).    
+I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). My research focuses on **_neural network compression_** and **_multitask learning_**. [[Google Scholar]](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)    
 
-Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. My research focuses on **_neural network compression_** and **_multitask learning_**. [[Google Scholar]](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN&citsig=AMD79oqEOpz5S5-oOv8pxWp3FtdO-RXVSQ)    
+<!-- Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. -->
 
 &nbsp;
 ## Education
-* [Aug. 2021 - Present] Ph.D. student in Computer Science, the Illinois Institute of Technology
+* [Aug. 2021 - Present] Ph.D. student in Computer Science, the Illinois Institute of Technology, USA.
+    - Mentor: Prof. [Yan Yan](https://tomyan555.github.io/)    
 * [Aug. 2011 - Jun. 2015] B.S.c. in Applied Mathematics and B.Econ. (Dual) in Economics, Wuhan University, China    
+    - Mentor: Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en)
 
 &nbsp;
 ## Publications 
@@ -36,6 +38,7 @@ Before IIT, I worked as research assistants at Shandong University and Hong Kong
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.   
 [[paper]](https://arxiv.org/pdf/2201.12712.pdf)    
 
+&nbsp;
 ## Experience
 * Shandong University, Research Assistant [May 2019 - Mar. 2021]
     - Mentor: Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html)    
