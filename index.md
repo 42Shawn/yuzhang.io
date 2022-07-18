@@ -23,7 +23,7 @@ I am currently a Ph.D. freshman of Computer Science at the Illinois Institute of
 **Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.     
 [[paper]](https://arxiv.org/abs/2207.06540) [[code]](https://github.com/42Shawn/LCR_BNN)
 
-* **[ICCV'22]** <u>Lipschitz Continuity Guided Knowledge Distillation</u>    
+* **[ICCV'21]** <u>Lipschitz Continuity Guided Knowledge Distillation</u>    
 **Yuzhang Shang**, Bin Duan, Ziliang Zong, Liqiang Nie, Yan Yan.    
 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Lipschitz_Continuity_Guided_Knowledge_Distillation_ICCV_2021_paper.pdf)  [[code]](https://github.com/42Shawn/LONDON/tree/master)    
 
