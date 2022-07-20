@@ -7,13 +7,7 @@ I am currently a Ph.D. freshman of Computer Science at The Illinois Institute of
 Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. 
 
 &nbsp;
-<!-- ## Education
-* [Aug. 2021 - Present] Ph.D. student in Computer Science, the Illinois Institute of Technology, USA.
-    - Mentor: Prof. [Yan Yan](https://tomyan555.github.io/)    
-* [Aug. 2011 - Jun. 2015] B.S.c. in Mathematics and B.Econ. in Economics (Dual Degree), Wuhan University, China    
-    - Mentor: Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en)    
 
-&nbsp; -->
 ## Publications 
 
 * **[ECCV'22]** <u>Network Binarization via Contrastive Learning</u>    
@@ -33,17 +27,26 @@ Before IIT, I worked as research assistants at Shandong University and Hong Kong
 [[paper]](https://arxiv.org/pdf/2201.12712.pdf)    
 
 &nbsp;
-<!-- ## Experience
+
+## More About Me
+_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._    
+> Motto: Wir müssen wissen, wir werden wissen!    
+
+<!-- 
+## Experience
 * Shandong University, Research Assistant [May 2019 - Mar. 2021]
     - Mentor: Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html)    
 * Hong Kong University of Science and Technology (HKUST), Research Assistant [Mar. 2021 - Sep. 2021]
     - Mentor: Prof. [Dan Xu](https://www.danxurgb.net/)    
 
-&nbsp; -->
-## More About Me
-_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._    
-> Motto: Wir müssen wissen, wir werden wissen!    
+&nbsp;
+## Education
+* [Aug. 2021 - Present] Ph.D. student in Computer Science, the Illinois Institute of Technology, USA.
+    - Mentor: Prof. [Yan Yan](https://tomyan555.github.io/)    
+* [Aug. 2011 - Jun. 2015] B.S.c. in Mathematics and B.Econ. in Economics (Dual Degree), Wuhan University, China    
+    - Mentor: Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en)    
 
+&nbsp; -->
 <!-- You can use the [editor on GitHub](https://github.com/42Shawn/yuzhang-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
